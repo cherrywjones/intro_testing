@@ -1,3 +1,3 @@
 20190913
-Introduction of gihub course
-Practicing using gihub through command line
+Introduction of github course
+Practicing using github through command line
