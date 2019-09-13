@@ -5,6 +5,8 @@ print('hello world')
 for number in range(10):
     if number * 2 < 10:
         print(str(number) + ' is less that 5')
+    else:
+        print(str(number) + ' is more than 5')
     
 
     
